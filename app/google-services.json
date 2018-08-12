@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "413290929709",
+    "firebase_url": "https://loginfirebase-d63a4.firebaseio.com",
+    "project_id": "loginfirebase-d63a4",
+    "storage_bucket": "loginfirebase-d63a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413290929709:android:978a2e6b35eb2bf7",
+        "android_client_info": {
+          "package_name": "com.example.sebastianstrus.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413290929709-e8o4isad9ea2d1u4hokdgco1pfarpnqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjucjDPffzjIkiWeta22V0ikg2qxYjGgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
